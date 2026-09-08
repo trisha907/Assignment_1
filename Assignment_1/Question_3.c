@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main() {	
-	int	leap,year=2028;
+	int	year=2028;
 	 
 	 if(year%4==0 && year%100!=0 || year%400==0)
 	 {
